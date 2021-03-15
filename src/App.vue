@@ -7,6 +7,7 @@
         </el-menu-item>
         <el-menu-item index="/tween">Tween Demo</el-menu-item>
         <el-menu-item index="/css"> CSS Demo</el-menu-item>
+        <el-menu-item index="/d3"> D3 Demo</el-menu-item>
       </el-menu>
     </el-header>
     <el-main>
